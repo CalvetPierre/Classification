@@ -1,5 +1,5 @@
-Est-il possible de partager publiquement (et temporairement) ce code sur mon github ? 
+### Random forest classification and regression algorithm with test file using Iris dataset
 
-J'ai enlevé tout ce qui ne venait pas de moi.
+Work I did as part of an internship
 
-Je comprend si ce n'est pas possible
+Code share with the consent of the start-up I worked with
