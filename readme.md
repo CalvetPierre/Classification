@@ -1,4 +1,4 @@
-### Random forest classification and regression algorithm with test file using Iris dataset
+### Random forest classification and regression algorithm (and more)
 
 Part of the work I did as part of an internship
 
